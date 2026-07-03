@@ -1,4 +1,4 @@
-## Hi there 👋 ##
+## Hey there or hallo 🇩🇪 ##
 We are a small group of german 🇩🇪 students that are all interested in programming and tech. Here we are just collecting our random repos. 
 
 
