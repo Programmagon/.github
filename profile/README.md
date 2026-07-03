@@ -1,4 +1,4 @@
-# Welcome to our GitHub Organization! 🚀
+# Welcome to our GitHub Organisation! 🇩🇪
 
 Hi there! We are a group of students from Germany who love to code, experiment, and build things. 
 
