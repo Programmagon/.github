@@ -12,11 +12,11 @@ Our projects range from serious coding experiments to absolute chaos, driven by 
 * 🎮 Gaming-related projects
 * 🧪 Anything else we find interesting
 
-## About Us 🇩🇪
-* **Status:** Students based in Germany.
+## About Us 
+* **Status:** Students based in Germany 🇩🇪
 * **Mission:** Turning caffeine and chaotic ideas into working (or sometimes beautifully broken) code.
 * **Goal:** Learning new things, improving our skills, and having a great time while doing it.
 
 ---
 
-*“It’s not a bug, it’s a feature we haven’t fully understood yet.”* 😉
+*“It’s not a bug, it’s a feature we haven’t fully understood yet.”*
