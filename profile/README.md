@@ -19,4 +19,5 @@ Our projects range from serious coding experiments to absolute chaos, driven by 
 
 ---
 
-*“It’s not a bug, it’s a feature we haven’t fully understood yet.”*
+> “It’s not a bug, it’s a feature we haven’t fully understood yet.”
+> ~us
