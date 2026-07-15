@@ -3,7 +3,9 @@
 Hi there! We are a group of students from Germany who love to code, experiment, and build things. 
 
 ## What we do 🛠️
-To be completely honest: **we build random stuff.** 
+To be completely honest: **we build random stuff**.
+
+---
 
 Our projects range from serious coding experiments to absolute chaos, driven by whatever cool idea pops into our heads. We don't stick to just one language or framework—if it sounds fun or challenging, we build it.
 
