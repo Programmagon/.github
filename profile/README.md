@@ -1,6 +1,6 @@
-# Welcome to our GitHub Organisation! 🇩🇪
+# Welcome to our GitHub Organisation!
 
-Hi there! We are a group of students from Germany who love to code, experiment, and build things. 
+Hi there! We are a group of students from Germany 🇩🇪 who love to code, experiment, and build things. 
 
 ## What we do 🛠️
 To be completely honest: **we build random stuff**.
